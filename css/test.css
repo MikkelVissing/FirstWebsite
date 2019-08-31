@@ -1,9 +1,33 @@
 body{
-	background-color: lightgrey;
+	background-color: #ffe4c6;
+	margin: 0;
+}
+header{
+	
+	background-color: white;
+	margin-left: 20px;
+	text-align: center;
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+ 
+
+}
+header img{
+	width: 300px;
+	border: 10px solid;
+	border-color: black;
+	border-radius: 10px;
 }
 h1{
 	font-size: 40px; 
-	color: salmon;
+	
+}
+h2{
+	font-size: 15px;
+}
+h3{
+	font-size: 30px;
 }
 .newclass{
 	font-size: 20px;
@@ -12,6 +36,6 @@ h1{
 	text-transform: uppercase;
 }
 span{
-	font-size: 30
+	font-size: 30;
 	color: #36E761;
 }
