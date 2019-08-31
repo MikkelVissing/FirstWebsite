@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'caviar_dreamsregular';
+    src: url('https://mikkelvissing.github.io/FirstWebsite/webfontkit-20190831-143502/caviardreams-webfont.woff2') format('woff2'),
+         url('https://mikkelvissing.github.io/FirstWebsite/webfontkit-20190831-143502/caviardreams-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body{
 	background-color: #ffe4c6;
 	margin: 0;
