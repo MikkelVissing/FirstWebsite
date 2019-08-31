@@ -1,7 +1,6 @@
 @font-face {
-    font-family: 'caviar_dreamsregular';
-    src: url('https://mikkelvissing.github.io/FirstWebsite/webfontkit-20190831-143502/caviardreams-webfont.woff2') format('woff2'),
-         url('https://mikkelvissing.github.io/FirstWebsite/webfontkit-20190831-143502/caviardreams-webfont.woff') format('woff');
+    font-family: 'caviardreams';
+    src: url('https://mikkelvissing.github.io/FirstWebsite/css/fonts/caviardreams.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
 
@@ -12,7 +11,7 @@ body{
 	margin: 0;
 }
 header{
-	font-family: 'caviar_dreamsregular',Arial;
+	font-family: 'caviardreams',"arial";
 	background-color: white;
 	margin-left: 20px;
 	text-align: center;
